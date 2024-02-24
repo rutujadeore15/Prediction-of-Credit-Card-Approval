@@ -32,7 +32,7 @@ The dataset contains various customer attributes such as income, education, mari
 
 ## SQL Queries
 
-Utilizing MySQL or PyMySQL, we will perform specific queries on the cleaned dataset, including grouping customers based on income type, identifying certain demographics, and extracting insightful information related to credit status and customer attributes.
+Utilizing MySQL  we will perform specific queries on the cleaned dataset, including grouping customers based on income type, identifying certain demographics, and extracting insightful information related to credit status and customer attributes.
 
 This project proposal lays the foundation for a comprehensive analysis of credit card approval prediction, offering valuable insights into the creditworthiness assessment process and its potential impact on the banking sector.
 
